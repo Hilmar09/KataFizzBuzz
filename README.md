@@ -19,11 +19,11 @@ FizzBuzzTest.java: Contains unit tests for the FizzBuzz logic using JUnit 5.
 
 Usage
 
-**# Running the Program**
+# **Running the Program**
 
 To run the program, you can compile and execute the Main.java file. This will print the FizzBuzz results for numbers from 1 to 100.
 
-# **##Unit Tests**
+# **Unit Tests**
 
 The unit tests are included in the FizzBuzzTest.java file. These tests use JUnit 5 to verify that the FizzBuzz logic behaves correctly. To run the unit tests, make sure you have JUnit 5 configured in your development environment.
 
