@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ##FizzBuzz Kata
 
 This project contains an implementation of the classic "FizzBuzz" programming kata in Java, along with unit tests to verify its correct functionality.
@@ -23,3 +24,6 @@ To run the program, you can compile and execute the Main.java file. This will pr
 
 ##Unit Tests
 The unit tests are included in the FizzBuzzTest.java file. These tests use JUnit 5 to verify that the FizzBuzz logic behaves correctly. To run the unit tests, make sure you have JUnit 5 configured in your development environment.
+=======
+
+>>>>>>> 0020cec78cc6b1d7852162f2a8bb5c837203b5cf
